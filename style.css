@@ -1,0 +1,10 @@
+.playerName {
+  cursor: pointer;
+  width: 10vw;
+  text-align: center;
+}
+
+.disabled {
+  cursor: default;
+  opacity: 0.3;
+}
